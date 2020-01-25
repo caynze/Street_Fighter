@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=timer2
+comment0.text=\r\n\ Insert\ a\ timer\ into\ the\ game\ that\ start\ from\ whatever\ vlaue\ time\ is\ and\ count\ to\ zero,\ when\ time\ is\ zero\ game\ is\ over.\r\n\ Time\ goes\ down\ one\ every\ time\ the\ the\ actor\ has\ run\ throught\ 1000\ times\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ countdown()
+comment3.params=
+comment3.target=void\ checkTimer()
+comment4.params=
+comment4.target=void\ display()
+numComments=5

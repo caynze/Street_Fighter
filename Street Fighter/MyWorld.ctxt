@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ 99\ Bugs\ of\ code\ on\ the\ wall\r\n\ 99\ Bugs\ of\ code\r\n\ Take\ 1\ down,\ pass\ it\ around\r\n\ 147\ bugs\ of\ code\ on\ the\ wall\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=RyuHealth\ getRyuHealth()
+comment4.params=
+comment4.target=GuileHealth\ getGuileHealth()
+numComments=5
